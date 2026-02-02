@@ -1,0 +1,10 @@
+body {
+    font-family: Arial;
+    text-align: center;
+}
+
+a {
+    margin: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
